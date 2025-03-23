@@ -7,3 +7,5 @@ Input:
    
 Output
    simple interest = p*t*r
+
+## Testing an edit on 2025/03/23
